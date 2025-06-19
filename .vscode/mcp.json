@@ -1,0 +1,14 @@
+{
+    "servers": {
+        "mcp_fin_analyst": {
+            "type": "stdio",
+            "command": "uv",
+            "args": [
+                "--directory",
+                "~/Documents/Projects/MCP_Financial_Analyst",
+                "run",
+                "server.py"
+            ]
+        }
+    }
+}
