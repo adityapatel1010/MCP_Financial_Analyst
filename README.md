@@ -78,14 +78,6 @@ The system will:
 
 ---
 
-## Example Output
-
-*Insert a sample output chart below*
-
-![Example Chart](screenshots/example_plot.png)
-
----
-
 ## Use Cases
 
 * Stock performance analysis and visualization
