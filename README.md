@@ -1,6 +1,6 @@
-# Financial Analyst – DeepSeek (MCP Powered)
+# MCP Financial Analyst
 
-Financial Analyst – DeepSeek is a local, multi-agent system built using the Modular Command Platform (MCP). It enables natural language-driven financial analysis by leveraging CrewAI agents and running a local DeepSeek-R1 language model through Docker-hosted Ollama.
+MCP Financial Analyst is a local, multi-agent system built using the MCP. It enables natural language-driven financial analysis by leveraging CrewAI agents and running a local DeepSeek-R1 language model through Docker-hosted Ollama.
 
 This project converts natural language queries into Python code that retrieves, analyzes, and visualizes stock market data, then securely executes the code and returns the results.
 
